@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "I Can Hear Vegas Knocking",
+    "description": "A list which, while built upon the excellent Viva New Vegas modlist, separates itself by using the excellent Alternate Start with Delayed Main Quest mod, made by the very talented hman101/louisky, as the centerpiece.",
+    "author": "Patchier",
+    "maintainers": [
+      "github/Patchier"
+    ],
+    "game": "falloutnv",
+    "tags": [
+      "viva new vegas fork",
+      "alternate start"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Patchier/i-can-hear-vegas-knocking/blob/3592e45422cadda833ed0f12d920c567c6e28624/return.png",
+      "readme": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/main/README.md",
+      "download": "https://authored-files.wabbajack.org/I%20Can%20Hear%20Vegas%20Knocking.wabbajack_fa666d30-c782-4928-a7d4-146fc8552a01",
+      "machineURL": "ICanHearVegasKnocking",
+      "discordURL": "WIP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "qZQ8z0GVZfY=",
+      "Size": 248424975,
+      "NumberOfArchives": 227,
+      "SizeOfArchives": 5472786080,
+      "NumberOfInstalledFiles": 20887,
+      "SizeOfInstalledFiles": 11624443571
+    },
+    "version": "1.0"
+  }
+]
