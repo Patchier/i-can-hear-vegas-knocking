@@ -17,7 +17,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## NOTABLE MODS
 
-Alternate Start with Delayed Main Quest - The centerpiece of this modlist. You no longer start by getting shot in the head. Instead, you're someone else. Someone new. The main quest is began properly later. Have a look [here](https://www.nexusmods.com/newvegas/mods/82319)
+Alternate Start with Delayed Main Quest - The centerpiece of this modlist. You no longer start by getting shot in the head. Instead, you're someone else. Someone new. The main quest is began properly later. Have a look [here](https://www.nexusmods.com/newvegas/mods/82319).
 
 New Blood - A modified version of the excellent BLEED mod, made by SweetSixShooter. Don't expect fights to feel the same as in vanilla! 
 
@@ -28,6 +28,8 @@ Hardcore Charisma - No longer a dump stat if you care at all about what factions
 Stash Organizer - In any interior cell, or player-owned exterior cell, press the VATS key on any contained to start what is probably the best sorting mod known to man. I actually recommend reading it yourself so you can see what all it does. Check it out [here](https://eddoursul.win/mods/stash-organizer/).
 
 I have also set JIP to separate headgear DR/DT from body armor DR/DT, and included S6S' fix to ensure enemies aren't doming you with every shot. Still, you're gonna want some head coverage if you get into a fight in the open!
+
+I have also included a few gamesetting tweaks, including the complete removal of minimum damage and the armor cap. Now, if you're sufficiently armored, you'll be able to tank anything your enemies throw at you that can't get through it. However, this also applies to you. Don't bring a knife to a power armor fight!
 
 ## SPECIFICATIONS
 
