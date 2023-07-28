@@ -2,9 +2,9 @@
 
 July 27th, 2023 - Full Install: ~30GB.
 
-**Modlist Download: [My kind of Courier.wabbajack](https://drive.google.com/drive/folders/1lYxE8Zg5wcI5Cn6mYuMdVyhRlWGnH8iU)**
+**Modlist Download: [I Can Hear Vegas Knocking.wabbajack](https://drive.google.com/drive/folders/1JG75DVwLpf-hPbmYTSKIkMadwowc5QlU)**
 
-**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
+**Modlist Support: [WIP]**
 
 
 ## OVERVIEW
