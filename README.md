@@ -34,6 +34,9 @@ I have also set JIP to separate headgear DR/DT from body armor DR/DT, and includ
 - Stash Organizer:
 VATS key on an interior container
 
+NVTF INI Presets:
+I have included all four available presets, with the one I use selected by default. If you don't know what the others mean, check [here](https://www.nexusmods.com/newvegas/mods/81231) for information.
+
 ## First off, you will need:
 
 -   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas
