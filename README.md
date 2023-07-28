@@ -2,8 +2,6 @@
 
 July 27th, 2023 - Full Install: ~30GB.
 
-**Modlist Download: [I Can Hear Vegas Knocking.wabbajack](https://drive.google.com/drive/folders/1JG75DVwLpf-hPbmYTSKIkMadwowc5QlU)**
-
 **Modlist Support: [WIP]**
 
 
