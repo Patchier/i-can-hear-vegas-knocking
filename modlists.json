@@ -9,19 +9,20 @@
     ],
     "game": "falloutnv",
     "tags": [
-      "viva new vegas fork",
-      "alternate start"
+      "viva-new-vegas-fork",
+      "alternate-start",
+      "fnv"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/3592e45422cadda833ed0f12d920c567c6e28624/return.png",
+      "image": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/blob/main/return.png",
       "readme": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/main/README.md",
       "download": "https://authored-files.wabbajack.org/I%20Can%20Hear%20Vegas%20Knocking.wabbajack_fa666d30-c782-4928-a7d4-146fc8552a01",
       "machineURL": "ICanHearVegasKnocking",
-      "discordURL": "WIP"
+      "discordURL": "https://discord.gg/CEQ9fJcaJD"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
