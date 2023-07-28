@@ -21,7 +21,7 @@ Alternate Start with Delayed Main Quest - The centerpiece of this modlist. You n
 
 New Blood - A modified version of the excellent BLEED mod, made by SweetSixShooter. Don't expect fights to feel the same as in vanilla! 
 
-Stewie Tweaks - My own custom take on Stewie Tweaks, forked from the default for Viva New Vegas. However, the original INI is included if you wish to use it instead!
+Stewie Tweaks - My own custom take on Stewie Tweaks, forked from the default for Viva New Vegas. However, the original INI is included if you wish to use it instead! I have made several important changes, such as allowing NPCs to Sneak Crit, allowing armor that is worn to be weightless, allowing NPCs to collect casings, overhauled pickpocketing, and a ton more. I suggest checking out "Tweaks" under "Settings" to see what I've done.
 
 Hardcore Charisma - No longer a dump stat if you care at all about what factions think of you. Take a look [here](https://www.nexusmods.com/newvegas/mods/78448) for details.
 
