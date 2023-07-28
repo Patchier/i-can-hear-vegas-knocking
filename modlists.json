@@ -19,7 +19,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/blob/main/return.png",
-      "readme": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/main/README.md",
+      "readme": "https://github.com/Patchier/i-can-hear-vegas-knocking/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/I%20Can%20Hear%20Vegas%20Knocking.wabbajack_ed6b141e-97fa-40df-9583-7f002fb6f5ff",
       "machineURL": "ICanHearVegasKnocking",
       "discordURL": "https://discord.gg/CEQ9fJcaJD"
