@@ -100,7 +100,9 @@ Install I Can Hear Vegas Knocking via Wabbajack:
    
 7. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
-8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
+8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN.
+
+9. In the Tools folder, open the NVHR subfolder, and copy the files within (Data and d3dx9_38.dll) into your New Vegas installation location.
 
 ## Starting the game
 
