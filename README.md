@@ -25,6 +25,8 @@ New Blood - A modified version of the excellent BLEED mod, made by SweetSixShoot
 
 Stewie Tweaks - My own custom take on Stewie Tweaks, forked from the default for Viva New Vegas. However, the original INI is included if you wish to use it instead!
 
+Hardcore Charisma - No longer a dump stat if you care at all about what factions think of you. Take a look [here](https://www.nexusmods.com/newvegas/mods/78448) for details.
+
 Stash Organizer - In any interior cell, or player-owned exterior cell, press the VATS key on any contained to start what is probably the best sorting mod known to man. I actually recommend reading it yourself so you can see what all it does. Check it out [here](https://eddoursul.win/mods/stash-organizer/).
 
 I have also set JIP to separate headgear DR/DT from body armor DR/DT, and included S6S' fix to ensure enemies aren't doming you with every shot. Still, you're gonna want some head coverage if you get into a fight in the open!
