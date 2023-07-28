@@ -102,3 +102,11 @@ Install I Can Hear Vegas Knocking via Wabbajack:
 ## Starting the game
 
 Once you've finished installing, simply navigate to your installation folder for the modlist and open ModOrganizer.exe. After that, you may launch the game via the New Vegas option, which should be selected for you in the top right corner. If not, simply choose it from the drop-down and click "run". If the launcher comes up to do graphics settings again, simply set your preferred settings, then exit out of the launcher and launch the game agan.
+
+## DXVK
+
+I recommend looking at [DXVK](https://www.nexusmods.com/newvegas/mods/79299) to see if you can utilize it. If you can, I strongly recommend installing it. The instructions are on the mod page.
+
+## Performance Guide
+
+This is less of a "recommendation" and more of a "threat". Look at this page, read it, and follow any directions you can. Wall worked very hard on ensuring that you can squeeze the most out of this engine. **Note: You absolutely should, at the very least, look into capping your framerate. 111fps seems to be the maximum that I've discovered without physics completely breaking on turrets.** Instructions are [here](https://wallsogb.github.io/FalloutNV-Performance-Guide/falloutnv.html).
