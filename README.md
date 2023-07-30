@@ -2,7 +2,7 @@
 
 July 27th, 2023 - Full Install: ~30GB.
 
-**Modlist Support: [WIP]**
+**Modlist Support: [Discord](https://discord.gg/CEQ9fJcaJD)**
 
 
 ## OVERVIEW
