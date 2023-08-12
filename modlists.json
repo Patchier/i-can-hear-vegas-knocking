@@ -20,21 +20,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Patchier/i-can-hear-vegas-knocking/blob/main/return.png",
       "readme": "https://github.com/Patchier/i-can-hear-vegas-knocking/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/I Can Hear Vegas Knocking.wabbajack_1465d054-9fe0-4ce6-8538-6551e0be90b3",
+      "download": "https://authored-files.wabbajack.org/I Can Hear Vegas Knocking.wabbajack_ab3cf423-80e1-498c-b598-68b6348e7e2b",
       "machineURL": "ICanHearVegasKnocking",
       "discordURL": "https://discord.gg/CEQ9fJcaJD"
     },
     "download_metadata": {
-      "Hash": "WpqBvZGFnQk=",
-      "Size": 247550875,
-      "NumberOfArchives": 256,
-      "SizeOfArchives": 5483598005,
-      "NumberOfInstalledFiles": 21443,
-      "SizeOfInstalledFiles": 11713276361
+      "Hash": "OSJs2eGPwWs=",
+      "Size": 247559092,
+      "NumberOfArchives": 257,
+      "SizeOfArchives": 5488119364,
+      "NumberOfInstalledFiles": 21473,
+      "SizeOfInstalledFiles": 11731703523
     },
-    "version": "1.5.0.1",
+    "version": "1.5.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-09T20:00:40.6391002Z",
+    "dateUpdated": "2023-08-12T08:57:15.9791923Z",
     "repositoryName": ""
   }
 ]
