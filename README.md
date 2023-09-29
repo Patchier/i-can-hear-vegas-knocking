@@ -25,19 +25,14 @@ Stewie Tweaks - My own custom take on Stewie Tweaks, forked from the default for
 
 Hardcore Charisma - No longer a dump stat if you care at all about what factions think of you. Take a look [here](https://www.nexusmods.com/newvegas/mods/78448) for details.
 
-Stash Organizer - In any interior cell, or player-owned exterior cell, press the VATS key on any contained to start what is probably the best sorting mod known to man. I actually recommend reading it yourself so you can see what all it does. Check it out [here](https://eddoursul.win/mods/stash-organizer/).
-
-I have also set JIP to separate headgear DR/DT from body armor DR/DT, and included S6S' fix to ensure enemies aren't doming you with every shot. Still, you're gonna want some head coverage if you get into a fight in the open!
+Stash Organizer - In any interior cell, or player-owned exterior cell, press the VATS key on any contained to start what is probably the best sorting mod known to man. I actually recommend reading it yourself so you can see what all it does. Check it out [here](https://eddoursul.win/mods/stash-organizer/). [Note: Not Included by default anymore, but can be added without issues.]
 
 I have also included a few gamesetting tweaks, including the complete removal of minimum damage and the armor cap. Now, if you're sufficiently armored, you'll be able to tank anything your enemies throw at you that can't get through it. However, this also applies to you. Don't bring a knife to a power armor fight!
 
 ## SPECIFICATIONS
 
-- Stash Organizer:
+- Stash Organizer (if added):
 VATS key on an interior container
-
-NVTF INI Presets:
-I have included all four available presets, with the one I use selected by default. If you don't know what the others mean, check [here](https://www.nexusmods.com/newvegas/mods/81231) for information.
 
 ## First off, you will need:
 
@@ -101,8 +96,6 @@ Install I Can Hear Vegas Knocking via Wabbajack:
 7. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
 8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN.
-
-9. In the Tools folder, open the NVHR subfolder, and copy the files within (Data and d3dx9_38.dll) into your New Vegas installation location.
 
 ## Starting the game
 
