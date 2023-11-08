@@ -78,8 +78,7 @@ By default, Steam only allows one library per drive, but there is a workaround. 
 
 - While you're here, run the games once each, and after the launcher has detected your graphics settings, make any special adjustments you need, then you may close out of it. We just needed those initial INIs to be created.
 
-Install I Can Hear Vegas Knocking via Wabbajack: 
------------------------------------------ 
+#### Install I Can Hear Vegas Knocking via Wabbajack: 
 
 1.  Download I Can Hear Vegas Knocking from my G-Drive (you've probably already done this part, but if not, link is at the top): 
 
@@ -96,6 +95,8 @@ Install I Can Hear Vegas Knocking via Wabbajack:
 7. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
 8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN.
+
+9. Navigate to the "Tools" folder and run the BSA Decompressor, following the instructions in the program to decompress the BSA files. This fixes several issues that mods simply cannot fix on their own.
 
 ## Starting the game
 
