@@ -104,7 +104,7 @@ Once you've finished installing, simply navigate to your installation folder for
 
 ## DXVK
 
-I recommend looking at [DXVK](https://www.nexusmods.com/newvegas/mods/79299) to see if you can utilize it. If you can, I strongly recommend installing it. The instructions are on the mod page.
+I recommend looking at [DXVK](https://www.nexusmods.com/newvegas/mods/79299) to see if you can utilize it. If you can't, delete d3d9.dll, d3d9.pdb, and dxvk.conf from your New Vegas folder, and replace it with [NVHR](https://www.nexusmods.com/newvegas/mods/69779). Running them together can cause crashing, and DXVK offers a better performance boost, but if you cannot run DXVK for whatever reason, I highly recommend using NVHR.
 
 ## Performance Guide
 
